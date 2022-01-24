@@ -7,7 +7,7 @@ local-config.php
 !.env.example
 config/keys.php
 
-public/core
+public/core/*
 public/.htaccess
 
 public/content/debug.log
