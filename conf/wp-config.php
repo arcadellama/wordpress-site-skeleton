@@ -27,3 +27,6 @@ define( 'AUTOMATIC_UPDATER_DISABLED', false );
 
 // Load Wordpress Settings
 $table_prefix = 'al82_';
+
+// Disable wordpress cron
+define( 'DISABLE_WP_CRON', true );
